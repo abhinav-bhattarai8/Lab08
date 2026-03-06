@@ -1,6 +1,7 @@
 package com.example.lab08;
 
 public class City {
+    //initial test comment
     private String city;
     private String province;
 
